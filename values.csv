@@ -1,4 +1,4 @@
-day, heart rate, cadence, power, stride length, vertical oscillation, gct, score
+date, heart rate, cadence, power, stride length, vertical oscillation, gct, score
 1.20.2026, 145, 161, 356, 1.34, 10.5, 257, 2
 1.21.2026, 156, 167, 355, 1.37, 10.4, 250, 3
 1.22.2026, 151, 163, 366, 1.34, 10.5, 261, 2
